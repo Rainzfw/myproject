@@ -1,0 +1,10 @@
+{
+    "name": "rainzfw/myproject",
+    "description": "test phpcomposer app",
+    "type": "project",
+    "require": {
+        "rainzfw/demon": "dev-master"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
